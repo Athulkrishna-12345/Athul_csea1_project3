@@ -1,0 +1,22 @@
+.round{
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    padding: 6px;
+    background: #fff;
+    border: 2px solid #0e8a35;
+    color: #f69d0f;
+    text-align: center;
+
+    font: 25px Arial, sans-serif;
+}
+.img1{
+  width: 450px;
+  height: 300px;
+  padding-bottom:100px
+
+}
+.img2{
+ width: 500px;
+ height: 400;
+}
